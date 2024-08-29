@@ -1,5 +1,8 @@
 # Steps to run code
 
+# Step 0 : Clone github repo
+- https://github.com/V-atz/full-stack-repo.git
+
 # Step 1 : Backend
 
 - open vscode terminal
