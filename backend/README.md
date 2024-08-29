@@ -11,7 +11,6 @@
    Navigate to the project directory:
 
    ```bash
-   cd fullstack-assignment
    cd backend
    ```
 

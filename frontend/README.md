@@ -5,7 +5,8 @@
    - Run the following commands in your terminal:
      ```bash
      git clone https://github.com/V-atz/full-stack-repo.git
-     cd fullstack-assignment/frontend
+     cd frontend
+     cd help-center
      ```
 
 2. **Install NPM Packages**
