@@ -1,0 +1,11 @@
+1.How can you implement shared functionality across a component tree?
+- Using context API which works as a global state management
+- Context API reduces the problem of passing props to every component individually every time by creating a global state
+which is accessed easily whenever needed
+- We can share state across components without props at any level
+- e.g. dark theme, ecommerce cart count, etc...
+
+2.Why is the useState hook appropriate for handling state in a complex component?
+- useState manages the state of a component
+- used when we need dynamic data which is more of component specific
+- e.g. cart item count, api data storing state, etc...
